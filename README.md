@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FF9C&background=0D111700&center=true&vCenter=true&width=700&lines=%3E+whoami+%E2%86%92+Vidita+Arolkar;%3E+M.Sc.+Cyber+Security+%40+NFSU;%3E+VAPT+%7C+GRC+%7C+Reverse+Engineering;%3E+breaking+things+to+secure+them+%F0%9F%94%90" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=ViditaArolkar&label=Profile+Views&color=00ff9c&style=for-the-badge)
+
 
 </div>
 
