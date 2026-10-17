@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="profile.png" width="160" alt="Vidita Arolkar" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FF9C&background=0D111700&center=true&vCenter=true&width=700&lines=%3E+whoami+%E2%86%92+Vidita+Arolkar;%3E+M.Sc.+Cyber+Security+%40+NFSU;%3E+VAPT+%7C+GRC+%7C+Reverse+Engineering;%3E+breaking+things+to+secure+them+%F0%9F%94%90" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ViditaArolkar&label=Profile+Views&color=00ff9c&style=for-the-badge)
@@ -124,7 +126,7 @@ Full risk assessment, gap analysis and treatment plan for a simulated organisati
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidita-arolkar-7b371927a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidita04arolkar@gmail.com)
 
 *Open to cyber security consulting and VAPT opportunities.*
